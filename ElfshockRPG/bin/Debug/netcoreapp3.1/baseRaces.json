@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Mage",
+    "Strength": 2,
+    "Intelligence": 3,
+    "Agility": 1,
+    "Range": 3,
+    "Sprite": "*"
+  },
+  {
+    "Name": "Warrior",
+    "Strength": 3,
+    "Intelligence": 0,
+    "Agility": 3,
+    "Range": 1,
+    "Sprite": "@"
+  },
+  {
+    "Name": "Archer",
+    "Strength": 2,
+    "Intelligence": 0,
+    "Agility": 4,
+    "Range": 2,
+    "Sprite": "#"
+  }
+]

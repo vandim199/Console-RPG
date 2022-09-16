@@ -1,0 +1,14 @@
+X:\Projects\ElfshockRPG\ElfshockRPG\bin\Debug\netcoreapp3.1\ElfshockRPG.exe
+X:\Projects\ElfshockRPG\ElfshockRPG\bin\Debug\netcoreapp3.1\ElfshockRPG.deps.json
+X:\Projects\ElfshockRPG\ElfshockRPG\bin\Debug\netcoreapp3.1\ElfshockRPG.runtimeconfig.json
+X:\Projects\ElfshockRPG\ElfshockRPG\bin\Debug\netcoreapp3.1\ElfshockRPG.runtimeconfig.dev.json
+X:\Projects\ElfshockRPG\ElfshockRPG\bin\Debug\netcoreapp3.1\ElfshockRPG.dll
+X:\Projects\ElfshockRPG\ElfshockRPG\bin\Debug\netcoreapp3.1\ElfshockRPG.pdb
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.csproj.AssemblyReference.cache
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.AssemblyInfoInputs.cache
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.AssemblyInfo.cs
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.csproj.CoreCompileInputs.cache
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.dll
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.pdb
+X:\Projects\ElfshockRPG\ElfshockRPG\obj\Debug\netcoreapp3.1\ElfshockRPG.genruntimeconfig.cache
